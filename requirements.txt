@@ -1,8 +1,7 @@
 
 streamlit 
 pandas 
-numpy 
-pickle
+numpy
 scikit-learn 
 pillow 
 pydeck 
